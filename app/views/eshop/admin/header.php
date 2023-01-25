@@ -41,11 +41,11 @@
             <!--logo end-->
             
             <div class="top-menu">
-            	<ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="<?=ROOT?>">Website</a></li>
+            	<ul class="nav pull-right  top-menu"> <style></style>
+                    <li><a class=" cor" href="<?=ROOT?>">Website</a></li>
             	</ul>
-                <ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="<?=ROOT?>logout">Sair</a></li>
+                <ul class="nav pull-right  top-menu">
+                    <li><a class=" cor" href="<?=ROOT?>logout">Sair</a></li>
                 </ul>
                 
             </div>
